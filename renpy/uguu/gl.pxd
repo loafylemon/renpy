@@ -182,6 +182,7 @@ cdef extern from "renpygl.h":
     GLenum GL_BLEND_DST_ALPHA
     GLenum GL_BLEND_SRC_ALPHA
     GLenum GL_CLAMP_TO_EDGE
+    GLenum GL_GENERATE_MIPMAP
     GLenum GL_GENERATE_MIPMAP_HINT
     GLenum GL_DEPTH_COMPONENT16
     GLenum GL_UNSIGNED_SHORT_5_6_5
